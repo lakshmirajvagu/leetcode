@@ -15,6 +15,7 @@ const statsCard = document.querySelector(".stats-card");
 
 searchButton.addEventListener("click", function(){  
     const username=userInput.value;
-    console.log(username);
+    console.log("entered",username);
+    console.log("entered",username);
 })
 });
